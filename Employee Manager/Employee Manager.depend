@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1480435636 source:d:\2016-2017\2016 fall\comp sci ii\employee_manager\employee.cpp
+	"employee.h"
+
+1480435640 d:\2016-2017\2016 fall\comp sci ii\employee_manager\employee.h
+	<string>
+
+1480435648 source:d:\2016-2017\2016 fall\comp sci ii\employee_manager\empltest.cpp
+	<iostream>
+	"employee.h"
+	"manager.h"
+	"supervisor.h"
+
+1480435646 d:\2016-2017\2016 fall\comp sci ii\employee_manager\manager.h
+	"employee.h"
+
+1480434566 d:\2016-2017\2016 fall\comp sci ii\include\supervisor.h
+	"manager.h"
+
+1480435642 source:d:\2016-2017\2016 fall\comp sci ii\employee_manager\manager.cpp
+	"manager.h"
+
+1480435664 d:\2016-2017\2016 fall\comp sci ii\employee_manager\supervisor.h
+	"manager.h"
+
+1480435690 source:d:\2016-2017\2016 fall\comp sci ii\employee_manager\supervisor.cpp
+	"supervisor.h"
+

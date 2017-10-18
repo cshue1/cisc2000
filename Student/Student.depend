@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1475849448 source:d:\2016-2017\2016 fall\comp sci ii\student\src\student.cpp
+	"student.h"
+	<string>
+	<iostream>
+
+1475848978 d:\2016-2017\2016 fall\comp sci ii\student\include\student.h
+	<string>
+

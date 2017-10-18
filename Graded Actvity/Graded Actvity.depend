@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1451497744 source:d:\2016-2017\2016 fall\comp sci ii\gradeactivity3(2)\gradedactivity.cpp
+	"GradedActivity.h"
+
+1461766222 d:\2016-2017\2016 fall\comp sci ii\gradeactivity3(2)\gradedactivity.h
+
+1451497744 source:d:\2016-2017\2016 fall\comp sci ii\gradeactivity3(2)\passfailactivity.cpp
+	"PassFailActivity.h"
+
+1461766222 d:\2016-2017\2016 fall\comp sci ii\gradeactivity3(2)\passfailactivity.h
+	"GradedActivity.h"
+
+1451497744 source:d:\2016-2017\2016 fall\comp sci ii\gradeactivity3(2)\passfailexam.cpp
+	"PassFailExam.h"
+
+1451497744 d:\2016-2017\2016 fall\comp sci ii\gradeactivity3(2)\passfailexam.h
+	"PassFailActivity.h"
+
+1480094130 source:d:\2016-2017\2016 fall\comp sci ii\gradeactivity3(2)\pr15-13.cpp
+	<iostream>
+	<iomanip>
+	"PassFailExam.h"
+

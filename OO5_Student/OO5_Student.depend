@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1476076116 source:d:\2016-2017\2016 fall\comp sci ii\oo5_student\main.cpp
+	<iostream>
+	"Student.h"
+
+1476076124 d:\2016-2017\2016 fall\comp sci ii\oo5_student\include\student.h
+	<string>
+	"Name.h"
+	"Date.h"
+	"Program.h"
+
+1476076130 source:d:\2016-2017\2016 fall\comp sci ii\oo5_student\src\student.cpp
+	"Student.h"
+	<iostream>
+	<string>
+
+1476076142 d:\2016-2017\2016 fall\comp sci ii\oo5_student\include\name.h
+	<string>
+
+1476076136 d:\2016-2017\2016 fall\comp sci ii\oo5_student\include\date.h
+
+1476076152 d:\2016-2017\2016 fall\comp sci ii\oo5_student\include\program.h
+	<string>
+
+1476076140 source:d:\2016-2017\2016 fall\comp sci ii\oo5_student\src\date.cpp
+	"Date.h"
+	<iostream>
+
+1476076146 source:d:\2016-2017\2016 fall\comp sci ii\oo5_student\src\name.cpp
+	"Name.h"
+	<string>
+	<iostream>
+
+1476076158 source:d:\2016-2017\2016 fall\comp sci ii\oo5_student\src\program.cpp
+	"Program.h"
+	<string>
+	<iostream>
+

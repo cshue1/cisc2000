@@ -1,0 +1,229 @@
+3.5982	 Haiti
+2.70534	 Brazil
+1.68338	 Eritrea
+1.54327	 Nigeria
+1.36162	 United Arab Emirates
+1.31714	 Seychelles
+1.21956	 Northern Mariana Islands
+1.20218	 Mexico
+1.05918	 Iran (Islamic Republic of)
+1.01927	 Qatar
+0.9967	 Zambia
+0.972392	 British Virgin Islands
+0.940748	 Indonesia
+0.936448	 Bangladesh
+0.931058	 Democratic Republic of the Congo
+0.90692	 Czech Republic
+0.906852	 Dominican Republic
+0.901476	 Sint Maarten (Dutch part)
+0.885974	 Ukraine
+0.882179	 Argentina
+0.846621	 United States Virgin Islands
+0.825734	 Sierra Leone
+0.825034	 Bolivia (Plurinational State of)
+0.822037	 Kuwait
+0.818839	 French Polynesia
+0.80495	 Saint Lucia
+0.793077	 Syrian Arab Republic
+0.788157	 Sudan
+0.774701	 Portugal
+0.774147	 Gibraltar
+0.766069	 Jordan
+0.745252	 Bermuda
+0.724307	 Guam
+0.720034	 Honduras
+0.71688	 Greenland
+0.714772	 Bahamas
+0.709099	 Saint Kitts and Nevis
+0.705887	 Vanuatu
+0.703807	 Solomon Islands
+0.687602	 Tonga
+0.687281	 Gabon
+0.68553	 Uganda
+0.683782	 Spain
+0.683018	 Israel
+0.66732	 Saint Vincent and the Grenadines
+0.6641	 Grenada
+0.66238	 Niue
+0.653989	 Austria
+0.652028	 Slovenia
+0.649278	 Greece
+0.646868	 Equatorial Guinea
+0.634759	 Nepal
+0.624442	 Caribbean Netherlands
+0.619223	 Anguilla
+0.611499	 Latvia
+0.60919	 Mozambique
+0.608581	 Republic of Korea
+0.60456	 Rwanda
+0.594385	 South Africa
+0.580222	 New Caledonia
+0.569755	 Burundi
+0.549788	 Samoa
+0.54866	 Italy
+0.547229	 Turks and Caicos Islands
+0.544086	 Malaysia
+0.530721	 South Sudan
+0.530353	 Serbia
+0.515707	 Djibouti
+0.513011	 Palau
+0.504556	 Aruba
+0.501903	 Myanmar
+0.49396	 Togo
+0.490172	 Antigua and Barbuda
+0.486166	 Dem. People's Republic of Korea
+0.486024	 Marshall Islands
+0.484136	 Saint Pierre and Miquelon
+0.473819	 Chad
+0.473721	 American Samoa
+0.469244	 Angola
+0.468114	 Andorra
+0.465193	 Western Sahara
+0.461667	 Lesotho
+0.461594	 TFYR Macedonia
+0.459863	 Nicaragua
+0.454698	 Lao People's Democratic Republic
+0.4466	 Croatia
+0.439694	 Canada
+0.436983	 Belarus
+0.434018	 Russian Federation
+0.433016	 Bulgaria
+0.431242	 Papua New Guinea
+0.430575	 Guatemala
+0.428097	 Paraguay
+0.424534	 Azerbaijan
+0.417912	 Switzerland
+0.417575	 Lebanon
+0.413947	 Panama
+0.412074	 Belize
+0.40912	 Chile
+0.40845	 Peru
+0.407634	 Maldives
+0.403009	 Ecuador
+0.390694	 China, Hong Kong SAR
+0.385567	 Colombia
+0.384397	 Costa Rica
+0.382994	 Turkey
+0.377849	 Turkmenistan
+0.37459	 Philippines
+0.356617	 Falkland Islands (Malvinas)
+0.352153	 Senegal
+0.351338	 New Zealand
+0.345769	 Republic of Moldova
+0.344985	 Cameroon
+0.339831	 Oman
+0.339216	 Fiji
+0.33278	 Netherlands
+0.331665	 Benin
+0.330294	 Channel Islands
+0.321959	 Poland
+0.320633	 Malta
+0.317924	 Cook Islands
+0.296311	 Albania
+0.295873	 Montenegro
+0.295386	 Malawi
+0.294786	 Guinea-Bissau
+0.292294	 Pakistan
+0.286877	 Sao Tome and Principe
+0.285941	 Mauritania
+0.283811	 Slovakia
+0.2821	 Burkina Faso
+0.276357	 Cuba
+0.269095	 Norway
+0.261993	 Libya
+0.260984	 Monaco
+0.259493	 Ireland
+0.258556	 Germany
+0.251614	 China, Macao SAR
+0.248056	 Faeroe Islands
+0.243501	 Mayotte
+0.241977	 Isle of Man
+0.233665	 Armenia
+0.231524	 Morocco
+0.225544	 Puerto Rico
+0.22487	 Gambia
+0.221931	 Barbados
+0.213235	 Tajikistan
+0.20703	 Saint Helena
+0.199326	 Guinea
+0.189055	 Cyprus
+0.182638	 Namibia
+0.181923	 United States of America
+0.180238	 Trinidad and Tobago
+0.178662	 Mali
+0.173304	 France
+0.171618	 Jamaica
+0.16563	 Kenya
+0.161408	 Sweden
+0.160408	 Yemen
+0.158437	 Guyana
+0.153495	 Guadeloupe
+0.151649	 Liberia
+0.149698	 Timor-Leste
+0.148984	 Sri Lanka
+0.145306	 Ethiopia
+0.142366	 Uzbekistan
+0.142228	 Lithuania
+0.134457	 United Kingdom
+0.11508	 Hungary
+0.108414	 Kyrgyzstan
+0.105681	 Algeria
+0.103217	 Nauru
+0.101077	 Swaziland
+0.0981712	 India
+0.0961771	 Suriname
+0.0953812	 San Marino
+0.0947909	 Georgia
+0.0924311	 Micronesia (Fed. States of)
+0.0914038	 Brunei Darussalam
+0.088939	 Iraq
+0.0871466	 Comoros
+0.0869062	 Holy See
+0.0850251	 Estonia
+0.0798834	 China
+0.0764007	 Madagascar
+0.0756558	 Montserrat
+0.0737094	 Cabo Verde
+0.070222	 Tuvalu
+0.0686114	 Denmark
+0.0544877	 Saudi Arabia
+0.0496135	 El Salvador
+0.0459265	 Uruguay
+0.0452647	 Congo
+0.0414769	 Dominica
+0.0376623	 Cambodia
+0.0331706	 Bosnia and Herzegovina
+0.0303042	 Kazakhstan
+0.0244779	 Venezuela (Bolivarian Republic of)
+0.0229053	 Egypt
+0.018707	 Cayman Islands
+0.0177181	 Bahrain
+0.0169595	 Central African Republic
+0.0168079	 Finland
+0.0113057	 Liechtenstein
+0.0111595	 Romania
+0.0099338	 Singapore
+0.00336961	 Mauritius
+-0.000796305	 State of Palestine
+-0.013273	 Zimbabwe
+-0.0226945	 Mongolia
+-0.0298875	 Luxembourg
+-0.0356693	 Wallis and Futuna Islands
+-0.0481866	 Tokelau
+-0.0640751	 Ghana
+-0.0723087	 Belgium
+-0.0962967	 Thailand
+-0.111398	 Niger
+-0.115671	 Kiribati
+-0.135828	 Viet Nam
+-0.148999	 Botswana
+-0.152803	 Bhutan
+-0.155395	 Iceland
+-0.160276	 Tunisia
+-0.163963	 Afghanistan
+-0.215266	 Japan
+-0.221632	 Somalia
+-0.245525	 French Guiana
+-0.294593	 Martinique
+-0.304889	 Australia
+-0.538569	 United Republic of Tanzania

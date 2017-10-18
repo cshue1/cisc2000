@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479451726 source:d:\2016-2017\2016 fall\comp sci ii\set 3\main.cpp
+	<iostream>
+	"Set.h"
+
+1479452088 d:\2016-2017\2016 fall\comp sci ii\set 3\include\set.h
+
+1479451780 source:d:\2016-2017\2016 fall\comp sci ii\set 3\src\set.cpp
+	"Set.h"
+	<iostream>
+

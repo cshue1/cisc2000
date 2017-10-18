@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1480804290 source:d:\2016-2017\2016 fall\comp sci ii\ships\main.cpp
+	<iostream>
+	"Ship.h"
+	"CruiseShip.h"
+	"CargoShip.h"
+
+1480803670 d:\2016-2017\2016 fall\comp sci ii\ships\include\ship.h
+	<iostream>
+
+1480804158 d:\2016-2017\2016 fall\comp sci ii\ships\include\cruiseship.h
+	"Ship.h"
+
+1480804156 d:\2016-2017\2016 fall\comp sci ii\ships\include\cargoship.h
+	"Ship.h"
+
+1480804170 source:d:\2016-2017\2016 fall\comp sci ii\ships\src\cargoship.cpp
+	"CargoShip.h"
+	<iostream>
+
+1480804172 source:d:\2016-2017\2016 fall\comp sci ii\ships\src\cruiseship.cpp
+	"CruiseShip.h"
+	<iostream>
+
+1480804236 source:d:\2016-2017\2016 fall\comp sci ii\ships\src\ship.cpp
+	"Ship.h"
+	<iostream>
+

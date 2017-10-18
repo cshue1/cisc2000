@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1446671344 source:d:\2016-2017\2016 fall\comp sci ii\classdemo2\main.cpp
+	<iostream>
+
+1474987726 source:d:\2016-2017\2016 fall\comp sci ii\classdemo2\src\pr13-4b.cpp.cpp
+	"Rectangle2.h"
+	<iostream>
+	<cstdlib>
+
+1474987512 d:\2016-2017\2016 fall\comp sci ii\classdemo2\include\rectangle2.h
+
+1474987592 source:d:\2016-2017\2016 fall\comp sci ii\classdemo2\src\rectangle2.cpp
+	"Rectangle2.h"
+	<iostream>
+	<cstdlib>
+

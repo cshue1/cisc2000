@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1480012928 source:d:\2016-2017\2016 fall\comp sci ii\set 5\main.cpp
+	"Set.h"
+	<cstdlib>
+	<ostream>
+	<istream>
+	<iostream>
+	<string>
+
+1480013032 d:\2016-2017\2016 fall\comp sci ii\set 5\include\set.h
+	<cstdlib>
+	<ostream>
+	<istream>
+	<iostream>
+

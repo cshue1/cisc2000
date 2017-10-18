@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1475529360 source:d:\2016-2017\2016 fall\comp sci ii\oo1_date\oo1_date.cpp
+	"Date.h"
+	<iostream>
+	<cstdlib>
+
+1475469532 d:\2016-2017\2016 fall\comp sci ii\oo1_date\include\date.h
+
+1475504868 source:d:\2016-2017\2016 fall\comp sci ii\oo1_date\src\date.cpp
+	"Date.h"
+	<iostream>
+

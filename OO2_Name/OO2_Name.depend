@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1475528860 source:d:\2016-2017\2016 fall\comp sci ii\oo2_name\oo2_name.cpp
+	"Name.h"
+	<iostream>
+
+1475505058 d:\2016-2017\2016 fall\comp sci ii\oo2_name\include\name.h
+	<string>
+
+1475505042 source:d:\2016-2017\2016 fall\comp sci ii\oo2_name\src\name.cpp
+	"Name.h"
+	<iostream>
+

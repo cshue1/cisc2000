@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1475591982 source:d:\2016-2017\2016 fall\comp sci ii\oo3_program\oo3_program.cpp
+	"Program.h"
+	<iostream>
+	<string>
+
+1475591596 d:\2016-2017\2016 fall\comp sci ii\oo3_program\include\program.h
+	<string>
+
+1475592008 source:d:\2016-2017\2016 fall\comp sci ii\oo3_program\src\program.cpp
+	"Program.h"
+	<string>
+	<iostream>
+

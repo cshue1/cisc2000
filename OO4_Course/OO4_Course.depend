@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1475595612 source:d:\2016-2017\2016 fall\comp sci ii\oo4_course\oo4_course.cpp
+	"Course.h"
+	<iostream>
+
+1475595608 d:\2016-2017\2016 fall\comp sci ii\oo4_course\include\course.h
+	<string>
+
+1475595378 source:d:\2016-2017\2016 fall\comp sci ii\oo4_course\src\course.cpp
+	"Course.h"
+	<iostream>
+

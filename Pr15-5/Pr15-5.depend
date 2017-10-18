@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1451497744 source:d:\2016-2017\2016 fall\comp sci ii\class notes + assignments\pr15-5(1)\pr15-5.cpp
+	<iostream>
+	"Cube.h"
+
+1480428870 d:\2016-2017\2016 fall\comp sci ii\class notes + assignments\pr15-5(1)\cube.h
+	"Rectangle.h"
+	<iostream>
+
+1480428872 d:\2016-2017\2016 fall\comp sci ii\class notes + assignments\pr15-5(1)\rectangle.h
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1477593162 source:d:\2016-2017\2016 fall\comp sci ii\polygonii\src\polygon.cpp
+	"Polygon.h"
+	<iostream>
+
+1477593130 d:\2016-2017\2016 fall\comp sci ii\polygonii\include\polygon.h
+
+1477610918 source:d:\2016-2017\2016 fall\comp sci ii\polygonii\main.cpp
+	<iostream>
+	<iomanip>
+	"Polygon.h"
+

@@ -1,0 +1,229 @@
+1.37605e+006	 China
+1.31105e+006	 India
+321774	 United States of America
+257564	 Indonesia
+207848	 Brazil
+188925	 Pakistan
+182202	 Nigeria
+160996	 Bangladesh
+143457	 Russian Federation
+127017	 Mexico
+126573	 Japan
+100699	 Philippines
+99390.8	 Ethiopia
+93447.6	 Viet Nam
+91508.1	 Egypt
+80688.5	 Germany
+79109.3	 Iran (Islamic Republic of)
+78665.8	 Turkey
+77266.8	 Democratic Republic of the Congo
+67959.4	 Thailand
+64715.8	 United Kingdom
+64395.3	 France
+59797.7	 Italy
+54490.4	 South Africa
+53897.2	 Myanmar
+53470.4	 United Republic of Tanzania
+50293.4	 Republic of Korea
+48228.7	 Colombia
+46121.7	 Spain
+46050.3	 Kenya
+44823.8	 Ukraine
+43416.8	 Argentina
+40234.9	 Sudan
+39666.5	 Algeria
+39032.4	 Uganda
+38611.8	 Poland
+36423.4	 Iraq
+35939.9	 Canada
+34377.5	 Morocco
+32526.6	 Afghanistan
+31540.4	 Saudi Arabia
+31376.7	 Peru
+31108.1	 Venezuela (Bolivarian Republic of)
+30331	 Malaysia
+29893.5	 Uzbekistan
+28513.7	 Nepal
+27977.9	 Mozambique
+27409.9	 Ghana
+26832.2	 Yemen
+25155.3	 Dem. People's Republic of Korea
+25022	 Angola
+24235.4	 Madagascar
+23969	 Australia
+23344.2	 Cameroon
+20715	 Sri Lanka
+19899.1	 Niger
+19511.3	 Romania
+18502.4	 Syrian Arab Republic
+18105.6	 Burkina Faso
+17948.1	 Chile
+17625.2	 Kazakhstan
+17599.7	 Mali
+17215.2	 Malawi
+16924.9	 Netherlands
+16342.9	 Guatemala
+16211.8	 Zambia
+16144.4	 Ecuador
+15602.8	 Zimbabwe
+15577.9	 Cambodia
+15129.3	 Senegal
+14037.5	 Chad
+12608.6	 Guinea
+12339.8	 South Sudan
+11609.7	 Rwanda
+11389.6	 Cuba
+11299.2	 Belgium
+11253.6	 Tunisia
+11178.9	 Burundi
+10954.6	 Greece
+10879.8	 Benin
+10787.1	 Somalia
+10724.7	 Bolivia (Plurinational State of)
+10711.1	 Haiti
+10543.2	 Czech Republic
+10528.4	 Dominican Republic
+10349.8	 Portugal
+9855.02	 Hungary
+9779.43	 Sweden
+9753.97	 Azerbaijan
+9495.83	 Belarus
+9156.96	 United Arab Emirates
+8850.98	 Serbia
+8544.59	 Austria
+8481.85	 Tajikistan
+8298.66	 Switzerland
+8075.06	 Honduras
+8064.04	 Israel
+7619.32	 Papua New Guinea
+7594.55	 Jordan
+7304.58	 Togo
+7287.98	 China, Hong Kong SAR
+7149.79	 Bulgaria
+6802.02	 Lao People's Democratic Republic
+6639.12	 Paraguay
+6453.18	 Sierra Leone
+6278.44	 Libya
+6126.58	 El Salvador
+6082.03	 Nicaragua
+5939.96	 Kyrgyzstan
+5850.74	 Lebanon
+5669.08	 Denmark
+5603.74	 Singapore
+5503.46	 Finland
+5426.26	 Slovakia
+5373.5	 Turkmenistan
+5227.79	 Eritrea
+5210.97	 Norway
+4900.27	 Central African Republic
+4807.85	 Costa Rica
+4688.47	 Ireland
+4668.47	 State of Palestine
+4620.33	 Congo
+4528.53	 New Zealand
+4503.44	 Liberia
+4490.54	 Oman
+4240.32	 Croatia
+4068.9	 Republic of Moldova
+4067.56	 Mauritania
+3999.81	 Georgia
+3929.14	 Panama
+3892.11	 Kuwait
+3810.42	 Bosnia and Herzegovina
+3683.24	 Puerto Rico
+3431.55	 Uruguay
+3017.71	 Armenia
+2959.13	 Mongolia
+2896.68	 Albania
+2878.41	 Lithuania
+2793.34	 Jamaica
+2458.83	 Namibia
+2262.49	 Botswana
+2235.36	 Qatar
+2135.02	 Lesotho
+2078.45	 TFYR Macedonia
+2067.53	 Slovenia
+1990.92	 Gambia
+1970.5	 Latvia
+1844.33	 Guinea-Bissau
+1725.29	 Gabon
+1377.24	 Bahrain
+1360.09	 Trinidad and Tobago
+1312.56	 Estonia
+1286.97	 Swaziland
+1273.21	 Mauritius
+1184.77	 Timor-Leste
+1165.3	 Cyprus
+892.145	 Fiji
+887.861	 Djibouti
+845.06	 Equatorial Guinea
+788.474	 Comoros
+774.83	 Bhutan
+767.085	 Guyana
+625.781	 Montenegro
+587.606	 China, Macao SAR
+583.591	 Solomon Islands
+572.54	 Western Sahara
+567.11	 Luxembourg
+542.975	 Suriname
+520.502	 Cabo Verde
+468.45	 Guadeloupe
+423.188	 Brunei Darussalam
+418.67	 Malta
+396.425	 Martinique
+388.019	 Bahamas
+363.657	 Maldives
+359.287	 Belize
+329.425	 Iceland
+284.215	 Barbados
+282.764	 French Polynesia
+268.606	 French Guiana
+264.652	 Vanuatu
+263.118	 New Caledonia
+240.015	 Mayotte
+193.228	 Samoa
+190.344	 Sao Tome and Principe
+184.999	 Saint Lucia
+169.885	 Guam
+163.692	 Channel Islands
+112.423	 Kiribati
+109.462	 Saint Vincent and the Grenadines
+106.825	 Grenada
+106.291	 United States Virgin Islands
+106.17	 Tonga
+104.46	 Micronesia (Fed. States of)
+103.889	 Aruba
+96.471	 Seychelles
+91.818	 Antigua and Barbuda
+87.78	 Isle of Man
+72.68	 Dominica
+70.473	 Andorra
+62.004	 Bermuda
+59.967	 Cayman Islands
+56.186	 Greenland
+55.572	 Saint Kitts and Nevis
+55.538	 American Samoa
+55.07	 Northern Mariana Islands
+52.993	 Marshall Islands
+48.199	 Faeroe Islands
+38.745	 Sint Maarten (Dutch part)
+37.731	 Monaco
+37.531	 Liechtenstein
+34.339	 Turks and Caicos Islands
+32.217	 Gibraltar
+31.781	 San Marino
+30.117	 British Virgin Islands
+24.861	 Caribbean Netherlands
+21.291	 Palau
+20.833	 Cook Islands
+14.614	 Anguilla
+13.151	 Wallis and Futuna Islands
+10.222	 Nauru
+9.916	 Tuvalu
+6.288	 Saint Pierre and Miquelon
+5.125	 Montserrat
+3.961	 Saint Helena
+2.903	 Falkland Islands (Malvinas)
+1.61	 Niue
+1.25	 Tokelau
+0.8	 Holy See
